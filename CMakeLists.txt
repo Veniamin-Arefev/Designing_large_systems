@@ -8,3 +8,5 @@ add_executable(task_1 task1/main.cpp)
 add_executable(task_2_ex1_1 task2/ex1_1.cpp)
 add_executable(task_2_ex1_2 task2/ex1_2.cpp)
 add_executable(task_2_ex2 task2/ex2.cpp)
+
+add_executable(task_3 task3/main.cpp)
